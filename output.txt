@@ -1,0 +1,43 @@
+
+Peter matches Dean 97%, good match
+Peter matches Gwen 97%, good match
+Peter matches Mary 97%, good match
+Sam matches Harley 97%, good match
+Jack matches Dean 96%, good match
+Jack matches Gwen 96%, good match
+Mack matches Gwen 96%, good match
+Mack matches Mary 96%, good match
+Bob matches Gwen 95%, good match
+Sam matches Jill 95%, good match
+Dennis matches Harley 91%, good match
+Dennis matches Harley 91%, good match
+Dennis matches Sara 89%, good match
+Dennis matches Sara 89%, good match
+Jack matches Mary 87%, good match
+Mack matches Dean 87%, good match
+Sam matches Dean 86%, good match
+Sam matches Gwen 86%, good match
+Sam matches Mary 86%, good match
+Peter matches Harley 81%, good match
+Dennis matches Dean 80%, good match
+Dennis matches Dean 80%, good match
+Dennis matches Gwen 80%, good match
+Dennis matches Gwen 80%, good match
+Jack matches Harley 80%, good match
+Mack matches Harley 80%, good match
+Peter matches Sara 79%
+Jack matches Sara 78%
+Mack matches Sara 78%
+Bob matches Sara 77%
+Dennis matches Jill 71%
+Dennis matches Jill 71%
+Dennis matches Mary 71%
+Dennis matches Mary 71%
+Peter matches Jill 70%
+Sam matches Sara 68%
+Bob matches Harley 61%
+Jack matches Jill 60%
+Mack matches Jill 60%
+Bob matches Dean 50%
+Bob matches Jill 50%
+Bob matches Mary 50%
